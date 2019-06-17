@@ -22,7 +22,7 @@ public class DateAndTime {
                     Integer.parseInt(year)); //passing the values
 
             String dayName = new DateFormatSymbols().
-                    getWeekdays()[calendar.get(Calendar.DAY_OF_WEEK+1)];
+                    getWeekdays()[calendar.get(Calendar.DAY_OF_WEEK)];
 
             // it will get the name of day
             System.out.println(dayName.toUpperCase());

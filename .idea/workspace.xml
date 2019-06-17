@@ -54,9 +54,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,7 +165,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1134" height="1129" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30091742" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31284404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -224,13 +224,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TripletsCompare/Solution.java" />
-    <entry file="file://$PROJECT_DIR$/LittleTests/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LittleTests/Solution2.java" />
     <entry file="file://$PROJECT_DIR$/LittleTests/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
