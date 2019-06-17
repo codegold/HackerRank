@@ -1,8 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="32adda81-93a7-4fdf-a492-660afd7118c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaIntToString/IntToString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaStaticInitializerBlock/StaticInitializerBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStaticInitializerBlock/StaticInitializerBlock.java" afterDir="false" />
+=======
     <list default="true" id="afa7fde6-6b81-497c-8b4b-bb9ed45e253f" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/JavaDataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEndOfFile/EndOfFileSecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaLoops2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleTests/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LittleTests/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TripletsCompare/Solution.java" beforeDir="false" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
+=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 2ff030f104ae01dc89d447b60f3d48b1020f0fc3
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,8 +28,97 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="FUSProjectUsageTrigger">
+    <session id="-534961893">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="1" />
+          <entry key="java" value="325" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="325" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaStaticInitializerBlock/StaticInitializerBlock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaIntToString/IntToString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1107#1376#0" expanded="true" />
+                <element signature="e#1375#1376#0" expanded="true" />
+=======
+  <component name="FileEditorManager">
+<<<<<<< HEAD
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+=======
     <leaf />
+>>>>>>> 2ff030f104ae01dc89d447b60f3d48b1020f0fc3
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,30 +127,43 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+=======
   <component name="FindInProjectRecents">
     <replaceStrings>
       <replace />
     </replaceStrings>
   </component>
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/JavaStaticInitializerBlock/StaticInitializerBlock.java" />
+        <option value="$PROJECT_DIR$/JavaIntToString/IntToString.java" />
+=======
         <option value="$PROJECT_DIR$/LittleTests/Solution.java" />
         <option value="$PROJECT_DIR$/LittleTests/Solution2.java" />
         <option value="$PROJECT_DIR$/JavaLoops2/Solution.java" />
         <option value="$PROJECT_DIR$/JavaDataTypes.java" />
         <option value="$PROJECT_DIR$/JavaEndOfFile/EndOfFileSecond.java" />
         <option value="$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
+<<<<<<< HEAD
+    <option name="width" value="927" />
+    <option name="height" value="877" />
+=======
     <option name="width" value="1134" />
     <option name="height" value="1129" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,9 +173,59 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
       <pane id="Scope" />
+>>>>>>> d562705d2df371ffa0b522ebe110b8d9b565acc6
+      <pane id="PackagesPane" />
+<<<<<<< HEAD
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaEndOfFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="LittleTests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+<<<<<<< HEAD
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560769864697" />
+=======
+=======
+      <pane id="ProjectPane" />
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+>>>>>>> 2ff030f104ae01dc89d447b60f3d48b1020f0fc3
+>>>>>>> d562705d2df371ffa0b522ebe110b8d9b565acc6
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -66,6 +235,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -79,7 +249,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.IntToString">
+=======
   <component name="RunManager" selected="Application.EndOfFile">
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
     <configuration name="EndOfFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaEndOfFile.EndOfFile" />
       <module name="HackerRank" />
@@ -93,12 +267,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="IntToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaIntToString.IntToString" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaIntToString.*" />
+=======
     <configuration name="EndOfFileSecond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaEndOfFile.EndOfFileSecond" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="JavaEndOfFile.*" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,6 +289,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="StaticInitializerBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaStaticInitializerBlock.StaticInitializerBlock" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaStaticInitializerBlock.*" />
+=======
     <configuration name="JavaDataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaDataTypes" />
       <module name="HackerRank" />
@@ -132,6 +323,7 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="LittleTests.*" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,6 +331,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <list>
+      <item itemvalue="Application.EndOfFile" />
+      <item itemvalue="Application.StaticInitializerBlock" />
+      <item itemvalue="Application.IntToString" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.IntToString" />
+        <item itemvalue="Application.StaticInitializerBlock" />
+        <item itemvalue="Application.EndOfFile" />
+=======
     <recent_temporary>
       <list>
         <item itemvalue="Application.EndOfFile" />
@@ -146,6 +350,7 @@
         <item itemvalue="Application.JavaDataTypes" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
       </list>
     </recent_temporary>
   </component>
@@ -154,18 +359,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="32adda81-93a7-4fdf-a492-660afd7118c1" name="Default Changelist" comment="" />
+      <created>1560620187239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560620187239</updated>
+=======
       <changelist id="afa7fde6-6b81-497c-8b4b-bb9ed45e253f" name="Default Changelist" comment="" />
       <created>1560420592944</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560420592944</updated>
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="0" y="23" width="927" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18644068" />
+=======
     <frame x="0" y="23" width="1134" height="1129" extended-state="0" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31284404" />
+=======
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15045871" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30091742" />
+>>>>>>> 2ff030f104ae01dc89d447b60f3d48b1020f0fc3
+>>>>>>> d562705d2df371ffa0b522ebe110b8d9b565acc6
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -174,19 +402,65 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1834395" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+=======
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39922854" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3299363" />
+=======
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3297975" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
+<<<<<<< HEAD
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/JavaStaticInitializerBlock/StaticInitializerBlock.java</url>
+          <line>13</line>
+          <properties field="B" class="JavaStaticInitializerBlock.StaticInitializerBlock" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TripletsCompare/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+=======
       <window_info anchor="right" id="Maven" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Key Promoter X" order="6" />
@@ -212,10 +486,17 @@
           <folding>
             <element signature="e#78006#78007#0" expanded="true" />
             <element signature="e#78050#78051#0" expanded="true" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/JavaStaticInitializerBlock/StaticInitializerBlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+=======
     <entry file="file://$PROJECT_DIR$/JavaEndOfFile/EndOfFileSecond.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -236,18 +517,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="91" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="26" selection-end-column="91" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/JavaIntToString/IntToString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1107#1376#0" expanded="true" />
+            <element signature="e#1375#1376#0" expanded="true" />
+=======
     <entry file="file://$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
           </folding>
         </state>
       </provider>
@@ -255,6 +548,8 @@
   </component>
   <component name="masterDetails">
     <states>
+<<<<<<< HEAD
+=======
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
@@ -315,6 +610,7 @@
           </splitter-proportions>
         </settings>
       </state>
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
@@ -327,6 +623,8 @@
           </splitter-proportions>
         </settings>
       </state>
+<<<<<<< HEAD
+=======
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <splitter-proportions>
@@ -338,6 +636,7 @@
           </splitter-proportions>
         </settings>
       </state>
+>>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
     </states>
   </component>
 </project>
