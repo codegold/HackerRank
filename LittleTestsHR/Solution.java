@@ -9,6 +9,7 @@ import java.text.*;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
+import java.util.Date;
 
 public class Solution {
 
@@ -23,6 +24,12 @@ public class Solution {
         }
 
         scanner.close();
+
+        Date date1 = new Date();
+        Date date2 = new Date();
+
+        System.out.println(date1.getTime() < date2.getTime()
+                ? "date1 later date2": "date1 earlier date2");
     }
 }
 
