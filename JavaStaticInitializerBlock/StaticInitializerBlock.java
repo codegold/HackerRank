@@ -1,6 +1,6 @@
 package JavaStaticInitializerBlock;
 /*https://vertex-academy.com/tutorials/ru/bloki-inicializacii-v-java-chast-1/
-Very usefull sourse
+Very useful sourсe
  */
 
 
