@@ -7,6 +7,7 @@
       <change beforePath="$PROJECT_DIR$/JavaStaticInitializerBlock/StaticInitializerBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaStaticInitializerBlock/StaticInitializerBlock.java" afterDir="false" />
 =======
     <list default="true" id="afa7fde6-6b81-497c-8b4b-bb9ed45e253f" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/JavaDataTypes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/JavaEndOfFile/EndOfFileSecond.java" afterDir="false" />
@@ -16,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TripletsCompare/Solution.java" beforeDir="false" />
 >>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 2ff030f104ae01dc89d447b60f3d48b1020f0fc3
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,6 +100,7 @@
                 <element signature="e#1375#1376#0" expanded="true" />
 =======
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java">
@@ -111,6 +116,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> 2ff030f104ae01dc89d447b60f3d48b1020f0fc3
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -169,6 +177,7 @@
 =======
       <pane id="Scope" />
       <pane id="PackagesPane" />
+<<<<<<< HEAD
 >>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
       <pane id="ProjectPane">
         <subPane>
@@ -207,13 +216,16 @@
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560769864697" />
 =======
+=======
+      <pane id="ProjectPane" />
+>>>>>>> 2ff030f104ae01dc89d447b60f3d48b1020f0fc3
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560610190359" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
 >>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
@@ -364,10 +376,13 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18644068" />
 =======
     <frame x="0" y="23" width="1134" height="1129" extended-state="0" />
-    <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15045871" />
 >>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30091742" />
+>>>>>>> 2ff030f104ae01dc89d447b60f3d48b1020f0fc3
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -478,13 +493,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TripletsCompare/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/TripletsCompare/Solution.java" />
     <entry file="file://$PROJECT_DIR$/LittleTests/Solution2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -522,8 +531,8 @@
 =======
     <entry file="file://$PROJECT_DIR$/JavaEndOfFile/EndOfFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+        <state relative-caret-position="57">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
 >>>>>>> d3875d14a04f69051aed327ca3aceacc1bb99596
