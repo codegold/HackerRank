@@ -13,41 +13,43 @@ public class Solution {
         // 'largest' must be the lexicographically largest substring of length 'k'
 
 
-        int size = s.length() - (k - 1);
-        String[] strintArr = new String[size];
+        int size = s.length() - (k - 1); //exit from array to avoid OUTofBOUNDS ERROR
+        String[] stringArr = new String[size];
         int start = 0;
         int finish = k;
-        for (int i = 0; i < size; i++) {
-            strintArr[i] = s.substring(start, finish);
+        for (int i = 0; i < size; i++) { //breaks up
+            stringArr[i] = s.substring(start, finish); //substring breaks up on substrings
             start++;
-            finish++;
+            finish++; //move to next subString
 
         }
-        for (int i = 0; i < size - 1; i++) {
-            for (int j = i + 1; j < strintArr.length; j++) {
-                if (strintArr[i].compareTo(strintArr[j]) > 0) {
-                    String temp = strintArr[i];
-                    strintArr[i] = strintArr[j];
-                    strintArr[j] = temp;
+        for (int i = 0; i < size - 1; i++) { //13 times makes that printed lower
+            for (int j = i + 1; j < stringArr.length; j++) {
+                if (stringArr[i].compareTo(stringArr[j]) > 0) {
+                    String temp = stringArr[i];
+                    stringArr[i] = stringArr[j];
+                    stringArr[j] = temp;
                 }
             }
         }
-        smallest = strintArr[0];
-        largest = strintArr[strintArr.length - 1];
+        smallest = stringArr[0];
+        largest = stringArr[stringArr.length - 1];
 
         return smallest + "\n" + largest;
     }
 
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        String s = scan.next();
-        int k = scan.nextInt();
-
-        scan.close();
+//        Scanner scan = new Scanner(System.in);
+//        String s = scan.next();
+//        int k = scan.nextInt();
+//
+//        scan.close();
+        String s = "welcometojava"; //13 symbols
+        int k = 3;
 
         System.out.println(getSmallestAndLargest(s, k));
-        
+
 
     }
 }
