@@ -12,7 +12,7 @@ public class Solution {
         // 'smallest' must be the lexicographically smallest substring of length 'k'
         // 'largest' must be the lexicographically largest substring of length 'k'
 
-
+        //Разбиваем на мини сабстринги
         int size = s.length() - (k - 1); //exit from array to avoid OUTofBOUNDS ERROR
         String[] stringArr = new String[size];
         int start = 0;
@@ -23,8 +23,10 @@ public class Solution {
             finish++; //move to next subString
 
         }
+
+        //Здесь разбитые сабстринги сортируем
         for (int i = 0; i < size - 1; i++) { //13 times makes that printed lower
-            for (int j = i + 1; j < stringArr.length; j++) {
+            for (int j = i + 1; j < stringArr.length; j++) {  //compare each
                 if (stringArr[i].compareTo(stringArr[j]) > 0) {
                     String temp = stringArr[i];
                     stringArr[i] = stringArr[j];
