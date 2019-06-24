@@ -13,7 +13,10 @@ public class Solution {
         // 'largest' must be the lexicographically largest substring of length 'k'
 
         //Разбиваем на мини сабстринги
-        int size = s.length() - (k - 1); //exit from array to avoid OUTofBOUNDS ERROR
+        //Отсечь буквы с конца, которые не ужлложаться в сабстринг
+        int size = s.length() - (k - 1);
+        //exit from array to avoid OUTofBOUNDS ERROR
+
         String[] stringArr = new String[size];
         int start = 0;
         int finish = k;
