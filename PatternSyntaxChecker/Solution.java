@@ -10,16 +10,14 @@ public class Solution {
         Scanner in = new Scanner(System.in);
         int testCases = Integer.parseInt(in.nextLine());
         while (testCases > 0) {
-            String pattern = in.nextLine();
-            //Write your code
-            //boolean result = pattern.matches(([A-Z])(.+))
+            String p1 = in.nextLine();
             try {
-                Pattern.compile(pattern);
+                Pattern.compile(p1);
                 System.out.println("Valid");
             } catch (PatternSyntaxException e) {
                 System.out.println("Invalid");
             }
-            testCases--;
+
 
         }
     }
