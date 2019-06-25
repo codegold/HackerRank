@@ -14,16 +14,13 @@ public class Solution {
         }
 
     }
-    class Regex {
-        String IPADDRESS_PATTERN =
+    static class MyRegex {
+        String pattern =
                 "(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.)" +
                         "{3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)";
-        Pattern pattern = Pattern.compile(IPADDRESS_PATTERN);
-        Matcher matcher = pattern.matcher(IPADDRESS_PATTERN);
-        if(matcher.find())
 
-        {
-            return true;
-        }
+        //public String pattern = IPADDRESS_PATTERN;
+
+
     }
 }
