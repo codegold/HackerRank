@@ -18,13 +18,23 @@ public class Solution {
 
         //Make queries
         int Q = scanner.nextInt();
-        for (int i = 0; i < Q ; i++) {
+        for (int i = 0; i < Q; i++) {
             String command = scanner.next();
-            if(command.equals("Insert")) {
+            if (command.equals("Insert")) {
                 int index = scanner.nextInt();
                 int value = scanner.nextInt();
                 myL.add(index, value);
+            } else if (command.equals("Delete")) {
+                int deleteIndex = scanner.nextInt();
+                myL.remove(deleteIndex);
             }
         }
+
+        //System.out.println(myL);
+        for (Integer allNumbers : myL) {
+            System.out.print(allNumbers + " ");
+        }
+
+
     }
 }
