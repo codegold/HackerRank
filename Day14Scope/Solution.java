@@ -19,8 +19,8 @@ class Difference {
 
     void computeDifference() {
         maximumDifference = 0;
-        for (int i = 0; i < elements.length - 1; i++) {
-            for (int j = i + 1; j < elements.length-1; j++) {
+        for (int i = 0; i < elements.length; i++) {
+            for (int j = i + 1; j < elements.length; j++) {
                 //abs = for escape possible minus result.
                 int temp = Math.abs(elements[i] - elements[j]);
                 if (temp > maximumDifference) {
