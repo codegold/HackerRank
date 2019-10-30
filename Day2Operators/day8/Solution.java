@@ -5,25 +5,28 @@ import java.util.Map;
 import java.util.Scanner;
 
 public class Solution {
-    static Scanner sc = new Scanner(System.in);
-    static int quantityScans = sc.nextInt();
+    static Scanner scanner = new Scanner(System.in);
     static Map<String, Integer> phoneBook = new HashMap<String, Integer>();
+    static int quantityScan = scanner.nextInt();
 
     public static void main(String[] args) {
-        for (int i = 0; i < quantityScans; i++) {
-            String s = sc.next();
-            int v = sc.nextInt();
-            phoneBook.put(s, v);
+        for (int i = 0; i < quantityScan; i++) {
+            String name = scanner.next();
+            int number = scanner.nextInt();
+            phoneBook.put(name, number);
         }
-        while (sc.hasNext()) {
-            String searchInBook = sc.next();
-            if (phoneBook.get(searchInBook) == null) {
-                System.out.println("Not valid");
+
+        while (scanner.hasNext()){
+            String searchInBook = scanner.next();
+            if(phoneBook.get(searchInBook) == null){
+                System.out.println("no such");
             } else {
-                System.out.println(searchInBook + " = " + phoneBook.get(searchInBook));
+                System.out.println(searchInBook +" = "+ phoneBook.get(searchInBook));
             }
         }
-        sc.close();
     }
 
 }
+
+
+
