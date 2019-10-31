@@ -1,33 +1,44 @@
-package day10;
+package Day10BinaryNumbers;
 
-import java.util.Scanner;
-import java.util.Stack;
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
 
 public class Solution {
-    //public static int[] binaryArray = {1, 2, 4, 8, 16, 32, 64, 128};
-    //static Scanner scanner = new Scanner(System.in);
-    //static int myScan = scanner.nextInt();
 
 
-    public static void convertToBin(int num) {
-        int index = 0;
-        int binary[] = new int[40];
-        while (num > 0) {
-            binary[index++] = num % 2;
-            num = num / 2;
-        }
-        for (int i = index - 1; i >= 0; i--) {
-            System.out.print(binary[i]);
-        }
-
-    }
+    private static final Scanner scanner = new Scanner(System.in);
+    static int count = 0, max = 0;
 
     public static void main(String[] args) {
-        convertToBin(124);
-        System.out.println();
-        System.out.println(Integer.toBinaryString(124));
+
+        int n = scanner.nextInt();
+        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
+        if (n > 0) {
+            convertToBinary(n);
+        }
+
+        //scanner.close();
     }
 
+    public static void convertToBinary(int n) {
+        if (n < 1) {
+            max = (max < count) ? count : max;
+            System.out.println(max);
+            return;
+        }
 
-
+        if (n % 2 == 1) {
+            count += 1;
+        } else {
+            max = (max < count) ? count : max;
+            count = 0;
+        }
+        convertToBinary(n/2);
+    }
 }
+
