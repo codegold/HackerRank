@@ -1,44 +1,46 @@
-package Day10BinaryNumbers;
+package day10;
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
+import java.util.Scanner;
+import java.util.Stack;
 
 public class Solution {
+    static int[] arrToKeepNums = new int[20];
 
+    public static void convertToBin(int n) {
+        int counter = 0;
 
-    private static final Scanner scanner = new Scanner(System.in);
-    static int count = 0, max = 0;
+        while (n > 0) {
+            arrToKeepNums[counter++] = n % 2;
+            n = n / 2;
+        }
+        for (int i = counter - 1; i >= 0; i--) {
+            System.out.print(arrToKeepNums[i]);
+        }
+        System.out.println();
+        System.out.println("my");
+    }
+
+    public static void convertToBinAndCountOnes(int n) {
+        int counter = 0, tail = 0, sequence = 0;
+        while (n > 0) {
+            tail = n % 2;
+            n = n / 2;
+            if(tail == 1) {
+                sequence++;
+                if (sequence >= counter) {
+                    counter = sequence;
+                }
+            } else sequence = 0;
+        }
+        System.out.print(counter);
+    }
+
 
     public static void main(String[] args) {
+        convertToBin(150);
+        System.out.println(Integer.toBinaryString(150));
+        System.out.println(Integer.toBinaryString(13));
+        convertToBinAndCountOnes(150);
 
-        int n = scanner.nextInt();
-        scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
-        if (n > 0) {
-            convertToBinary(n);
-        }
-
-        //scanner.close();
-    }
-
-    public static void convertToBinary(int n) {
-        if (n < 1) {
-            max = (max < count) ? count : max;
-            System.out.println(max);
-            return;
-        }
-
-        if (n % 2 == 1) {
-            count += 1;
-        } else {
-            max = (max < count) ? count : max;
-            count = 0;
-        }
-        convertToBinary(n/2);
     }
 }
-
